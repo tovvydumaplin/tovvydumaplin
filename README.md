@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 I'm a fullstack web developer based in the Philippines who builds clean, functional web applications from database to UI. I enjoy working across the whole stack — designing APIs, structuring backends, and crafting polished frontends.
-</br>
+</br></br>
 **Fullstack Web Developer** · 🇵🇭 Philippines
 #
 
