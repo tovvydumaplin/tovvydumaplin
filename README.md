@@ -6,13 +6,13 @@
 
 </div>
 
---
+#
 
 ### 🧑‍💻 About Me
 
 I'm a fullstack web developer based in the Philippines who builds clean, functional web applications from database to UI. I enjoy working across the whole stack — designing APIs, structuring backends, and crafting polished frontends.
 
---
+#
 
 ### 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ I'm a fullstack web developer based in the Philippines who builds clean, functio
 **Design & Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
---
+#
 
 ### 🔌 What I Build
 
