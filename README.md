@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Tovvy 👋
 
-<!--
-**tovvydumaplin/tovvydumaplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from the Philippines 🇵🇭
 
-Here are some ideas to get you started:
+I build web applications, business systems, and automation tools using Laravel and Vue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Laravel
+- Vue.js
+- PHP
+- MySQL
+- Tailwind CSS
+- JavaScript
+
+## Currently Working On
+
+- Warehouse & logistics systems
+- Dashboard interfaces
+- Automation projects
+
+## GitHub Stats
+
+![Tovvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+## Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
