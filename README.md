@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hi!
-
 **Fullstack Web Developer** · 🇵🇭 Philippines
-
 </div>
 
 #
