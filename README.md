@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tovvy Dumaplin
+# Hi!
 
 **Fullstack Web Developer** · 🇵🇭 Philippines
 
